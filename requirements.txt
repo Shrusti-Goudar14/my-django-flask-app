@@ -1,2 +1,1 @@
-git init
-echo "Flask" > requirements.txt
+Flask
